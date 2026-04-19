@@ -19,6 +19,12 @@ Tsai, Chieh, and Salim Hariri. "Intelligent Obstacle Resilience in Autonomous Ve
 
 ![System pipeline](assets/images/system_pipeline.png)
 
+## Demo
+
+The following GIF shows a short demo of the virtual vehicle control setup running with YOLO-based perception in QLabs.
+
+![Demo of the virtual vehicle control setup](assets/images/demo.gif)
+
 ## What Is Included
 
 - `vehicle_control.py`: closed-loop vehicle controller for the QCar / QLabs setup
