@@ -12,6 +12,7 @@ This repository is intended as a public code companion for research on resilient
 This code release is aligned with the published conference paper:
 
 Tsai, Chieh, and Salim Hariri. "Intelligent Obstacle Resilience in Autonomous Vehicles Under Security Threats." 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud). IEEE, 2025.
+Video explanation: https://drive.google.com/file/d/1UJIRGdNgQHYSJj645q2r6ike3_ldHu72/view?usp=drive_link
 
 ## Preview
 
