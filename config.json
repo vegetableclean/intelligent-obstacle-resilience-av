@@ -1,0 +1,7 @@
+{
+    "stopSignThreshold": 4,
+    "trafficThreshold": 17,
+    "carThreshold": 3,
+    "yieldThreshold": 8,
+    "personThreshold": 6
+}
